@@ -1,1 +1,6 @@
-
+INSERT INTO studenten (voornaam, achternaam,klas,adres,postcode,geboortedatum,woonplaats)
+VALUES ("Jan", "Vermeer", "", "", "", "2000-09-28", "Amstelveen") 
+INSERT INTO studenten (voornaam, achternaam,klas,adres,postcode,geboortedatum,woonplaats)
+VALUES ("Bert", "Hendriks", "", "", "", "2001-04-28", "Amsteldam") 
+INSERT INTO studenten (voornaam, achternaam,klas,adres,postcode,geboortedatum,woonplaats)
+VALUES ("Marri", "Janssen", "", "", "", "2003-06-26", "Almere") 
